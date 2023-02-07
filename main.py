@@ -1,7 +1,7 @@
 #!usr/bin/env python
 # -*- coding: utf-8 -*-
 
-""" Telegram Bot: Selective Listener """
+""" Telegram App: Selective Listener """
 
 from telethon import TelegramClient, events
 from pathlib import Path
