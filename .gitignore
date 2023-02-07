@@ -1,5 +1,12 @@
+# Telethon sessions
+*.session
+
+# Script configurations
+config.yaml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+bin/
 *.py[cod]
 *$py.class
 
@@ -109,6 +116,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pyvenv.cfg
 
 # Spyder project settings
 .spyderproject
